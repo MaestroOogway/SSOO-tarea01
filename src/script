@@ -1,6 +1,6 @@
-!#/bin/bash
-echo Elnombre del script es:$0
-for  i in $*;
+#!/bin/bash
+echo El nombre del script es:$0
+for i in $*;
 do
   echo $i
 done
