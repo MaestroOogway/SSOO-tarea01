@@ -1,6 +1,6 @@
 # SSOO-tarea01 Nombre:Fabián Alexis Vidal Torres Correo:fabian.vidalt@alumnos.uv.cl
 
-Introduccion:En esta seccion se indicará el como se llevo a cabo la resolución de los ejericios planteados en esta tarea , indicando las herramientas y fuentes de informacion consultadas para el desarrollo de cada punto respectivo.
+Introduccion:En esta sección se indicará el como se llevo a cabo la resolución de los ejericios planteados en esta tarea , indicando las herramientas y fuentes de informacion consultadas para el desarrollo de cada punto respectivo.
 
 Preguntas:
 
@@ -20,11 +20,11 @@ Como resultado final se tiene la creacion de 12x31 directorios con distintos nom
 D) Para la resolucion de este ejricio se recopílo informacion de la siguiente pagina:
 https://codigofacilito.com/articulos/pipes
 
-Mediante el uso de pipes se ejecutan los comandos que ayudan a filtrar la infomracion que se desea saber.
+Mediante el uso de pipes se ejecutan los comandos que ayudan a filtrar la información que se desea saber.
 
 E)Con el uso de la maquina virtual en un ambiente de linux, se procedió a ejecutar el comando "pintenv", este comando facilito la visualización del contenido de las variables locales que se querian saber, posteriormente se recopiló información de páginas de internet para verificar el resultado entregado.
 
-F)Para el desarrollo de este ejercicio se decidió optar por un bucle for, el cual lista los parámetros de entrada del script,el factor fundamental en este código son el uso de las variables en bashya que, conociendo el significado de las variables especiales en el enotrno de bash se pueden rescatar los valors de cada parametro de entrada.
+F)Para el desarrollo de este ejercicio se decidió optar por un bucle for, el cual lista los parámetros de entrada del script,el factor fundamental en este código son el uso de las variables en bash ya que, conociendo el significado de las variables especiales en el enotrno de bash se pueden rescatar los valores de cada parametro de entrada.
 
 $0 = representa el valor del primer parametro en la consola.
 $1 = representa el valor del segundo parametro en la consola.
@@ -32,5 +32,5 @@ $1 = representa el valor del segundo parametro en la consola.
 $* = representa la lista de parametros ingresada por el usuario.
 $$ = representa el PID del proceso en ejecución
 
-De esta manera mediante una variable y un ciclo for se lista los paramnetros ingresados por consola.Posteriormente con el uso de pipes y los comandos echo y head el cual muestra el contenido de las primeras 10 lineas de un archivo se imprime el contenido solicitado.
+De esta manera mediante una variable y un ciclo for se lista los parámetros ingresados por consola.Posteriormente con el uso de pipes y los comandos echo y head el cual muestra el contenido de las primeras 10 lineas de un archivo se imprime el contenido solicitado.
 Información de las variables recopilada en: https://atareao.es/tutorial/scripts-en-bash/variables-en-bash/
