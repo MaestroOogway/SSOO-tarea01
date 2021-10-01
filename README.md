@@ -33,3 +33,4 @@ $* = representa la lista de parametros ingresada por el usuario.
 $$ = representa el PID del proceso en ejecución
 
 De esta manera mediante una variable y un ciclo for se lista los paramnetros ingresados por consola.Posteriormente con el uso de pipes y los comandos echo y head el cual muestra el contenido de las primeras 10 lineas de un archivo se imprime el contenido solicitado.
+Información de las variables recopilada en: https://atareao.es/tutorial/scripts-en-bash/variables-en-bash/
